@@ -1,0 +1,6 @@
+name: JeconCacheName
+version: @version@
+main: com.gmail.necnionch.myplugin.jeconcachename.bukkit.JeconCacheName
+api-version: 1.13
+depend: [Jecon]
+authors: [Necnion8]
